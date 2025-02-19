@@ -1,1 +1,1 @@
-# oyoapp-android-Public
+# Oyo App 안드로이드 프로젝트입니다.
